@@ -1,0 +1,985 @@
+index,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11,Symptom_12,Symptom_13,Symptom_14,Symptom_15,Symptom_16,Symptom_17
+2537,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+4751,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+3644,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+4464,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+3275,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+365,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+4095,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+776,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+2000,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2783,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2006,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+4915,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2005,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+2004,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+2003,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+3726,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2002,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+3029,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2947,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+4382,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2418,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+3398,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+2419,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0,0
+2001,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,0,0,0,0,0,0,0,0,0,0,0
+4844,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+3491,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+4106,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+2113,AIDS, muscle_wasting, patches_in_throat, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2112,AIDS, muscle_wasting, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2114,AIDS, muscle_wasting, patches_in_throat, high_fever,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2115,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+4188,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+4639,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+2111,AIDS, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4557,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,AIDS, muscle_wasting, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2117,AIDS, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2110,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+3286,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,AIDS, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2118,AIDS, muscle_wasting, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2119,AIDS, muscle_wasting, patches_in_throat, high_fever,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2712,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+3327,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+3860,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+2116,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+2917,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Acne, skin_rash, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3932,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+3071,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+3153,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+4506,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+4834,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+4137,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+1609,Acne, skin_rash, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Acne, skin_rash, pus_filled_pimples, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4793,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+1608,Acne, skin_rash, pus_filled_pimples, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1190,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+1191,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+1192,Acne, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1193,Acne, skin_rash, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1194,Acne, skin_rash, pus_filled_pimples, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1195,Acne, skin_rash, pus_filled_pimples, blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1196,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+1197,Acne, skin_rash, pus_filled_pimples, blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1198,Acne, skin_rash, pus_filled_pimples, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1199,Acne, skin_rash, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4342,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+2702,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Acne, skin_rash, pus_filled_pimples, blackheads, scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
+3714,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+3017,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+1069,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+1068,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption,0,0,0,0,0,0,0,0,0,0,0
+1067,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+1066,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+3755,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+245,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+1064,Alcoholic hepatitis, vomiting, yellowish_skin, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+1063,Alcoholic hepatitis, vomiting, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+1062,Alcoholic hepatitis, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+1061,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+1060,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+2484,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+3673,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+2525,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+4411,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+3427,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+1065,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+4329,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+4657,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+249,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload,0,0,0,0,0,0,0,0,0,0
+247,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, fluid_overload,0,0,0,0,0,0,0,0,0,0,0
+248,Alcoholic hepatitis, vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption,0,0,0,0,0,0,0,0,0,0,0
+4716,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+3199,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,Allergy, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Allergy, continuous_sneezing, shivering, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4880,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+3404,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,Allergy, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3240,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,Allergy, continuous_sneezing, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4757,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+2912,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Allergy, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Allergy, continuous_sneezing, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4798,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+3363,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+3117,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Allergy, continuous_sneezing, shivering, chills,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,Allergy, continuous_sneezing, shivering, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,Allergy, continuous_sneezing, shivering, chills,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3158,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+3035,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+4839,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,0,0,0,0,0,0,0,0,0,0,0,0,0
+4340,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3356,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3151,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3807,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3725,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4791,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4668,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4627,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+1179,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+1178,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+1177,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness,0,0,0,0,0,0,0,0,0,0,0,0,0
+1176,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+1175,Arthritis, muscle_weakness, stiff_neck, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0,0
+1174,Arthritis, muscle_weakness, stiff_neck, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0,0
+4012,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2782,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2406,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3479,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4217,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4053,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3684,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3848,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+4381,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+350,Arthritis, muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+507,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+506,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+500,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+3494,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+501,Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+502,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+3945,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+2838,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+2715,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+503,Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+505,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+504,Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+509,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+1738,Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+2674,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+4068,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+3535,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+2756,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+1739,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+90,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+3453,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+3248,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+4027,Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0
+91,Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,0,0,0,0,0,0,0,0,0,0,0,0
+4686,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+3046,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+124,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+3989,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+2170,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+125,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+3497,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+2173,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+2171,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+126,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness,0,0,0,0,0,0,0,0,0,0,0,0,0
+4768,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+2718,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+2174,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+2677,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+123,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+4153,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+121,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+120,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+3866,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+4563,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+4891,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+127,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+3579,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0
+984,Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+986,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+987,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+988,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+989,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,0,0,0,0,0,0,0
+4034,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+2804,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4075,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4198,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+985,Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+1801,Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+980,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4280,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+2968,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4157,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4485,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+2558,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+2218,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+2219,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,0,0,0,0,0,0,0
+2217,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+1802,Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+3747,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+4731,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0
+2216,Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,0,0,0,0,0,0,0
+3693,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4226,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2463,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4759,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4185,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4062,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4431,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+3652,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2668,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2586,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2545,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+4595,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+3529,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2080,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2081,Chronic cholestasis, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+2082,Chronic cholestasis,itching, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+2083,Chronic cholestasis,itching, vomiting, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+2084,Chronic cholestasis,itching, vomiting, yellowish_skin, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+2085,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+2086,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0
+4472,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2089,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2087,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain,0,0,0,0,0,0,0,0,0,0,0
+2088,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0
+2313,Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+2312,Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+2311,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2310,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2314,Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+4331,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+3429,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2855,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+4495,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+4700,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2773,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+3511,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+672,Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+3470,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+4372,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2896,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+674,Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+1088,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+1089,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+4741,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+2814,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+1081,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain
+679,Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+675,Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0
+1816,Dengue, skin_rash, chills, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+3092,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+585,Dengue, skin_rash, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+3297,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+3789,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+4240,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+4568,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+4650,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+1814,Dengue, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+2928,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+1817,Dengue, skin_rash, chills, joint_pain, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+4773,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+581,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, red_spots_over_body,0,0,0,0
+4363,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+1818,Dengue, skin_rash, chills, joint_pain, vomiting, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+1819,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+3215,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+3748,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+3051,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+3953,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+584,Dengue, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0,0
+3338,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+4896,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+4076,Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,0,0,0
+3410,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+1306,Diabetes , fatigue, weight_loss, restlessness, lethargy, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+1305,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+2126,Diabetes , fatigue, weight_loss, restlessness, lethargy, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+2125,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+1303,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+2124,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+4804,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+3082,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+3574,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+4640,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+4435,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+4189,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+4312,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+4845,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+3123,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+3984,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+3779,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+2123,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+3369,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+2508,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+1713,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+2121,Diabetes , fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0
+2122,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria,0,0,0,0,0,0,0,0
+1929,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+2611,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+3964,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+690,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+691,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+2939,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+4784,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+3718,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+2898,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1920,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1101,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1102,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1103,Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0,0
+1104,Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0,0
+1105,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0,0
+1107,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool,0,0,0,0,0,0,0,0,0,0,0,0,0
+1106,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0,0
+1109,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+3021,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+4251,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+4374,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+4497,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1108,Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0
+1923,Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus,0,0,0,0,0,0,0,0,0,0,0,0,0
+1681,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+4801,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+451,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+860,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+1276,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+1275,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+1274,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
+3202,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+1273,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+3448,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+2628,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+4514,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+450,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+455,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+4842,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+1272,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
+1271,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+1270,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+2669,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+4104,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
+453,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
+4346,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,Fungal infection,itching, skin_rash, nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,Fungal infection,itching, skin_rash, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,Fungal infection,itching, skin_rash, nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+4059,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+4674,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4018,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Fungal infection,itching, skin_rash, nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Fungal infection,itching, skin_rash, nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Fungal infection,itching, skin_rash, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4633,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Fungal infection,itching, skin_rash, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4387,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4223,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4592,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+3774,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+2462,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+840,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+2626,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+841,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+842,GERD, stomach_pain, acidity, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+843,GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+844,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+845,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,0,0,0,0,0,0,0,0,0,0,0,0
+846,GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+2070,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+3610,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+848,GERD, stomach_pain, acidity, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+4758,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+849,GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+3815,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+4553,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+847,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+2071,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+2072,GERD, stomach_pain, acidity, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+2073,GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+3159,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,0,0,0,0,0,0,0,0,0,0,0
+2074,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0
+3903,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4354,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+3042,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4313,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4108,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+3001,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4805,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+3083,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+3370,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4764,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1720,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4518,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1722,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3124,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1723,Gastroenteritis, vomiting, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1724,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1725,Gastroenteritis, vomiting, sunken_eyes, dehydration,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2632,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1726,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1727,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1721,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+3944,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0
+1728,Gastroenteritis, vomiting, dehydration, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1729,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3432,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+3104,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4170,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+1529,Heart attack, vomiting, breathlessness, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1528,Heart attack, vomiting, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1934,Heart attack, vomiting, breathlessness, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1933,Heart attack, vomiting, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2858,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+1931,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+3268,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4908,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4252,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+3842,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+1932,Heart attack, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4006,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4621,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+3227,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4047,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+3309,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Heart attack, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3186,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4211,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+1930,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4867,Heart attack, vomiting, breathlessness, sweating, chest_pain,0,0,0,0,0,0,0,0,0,0,0,0,0
+4612,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2849,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2767,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3792,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2250,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3833,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2726,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+1849,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0,0
+3423,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3464,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3587,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2685,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4325,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4735,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4530,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2931,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3013,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4776,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2480,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2972,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3054,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4694,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+2890,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+4161,Hepatitis B,itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections,0,0,0,0,0
+3998,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+2264,Hepatitis C, fatigue, yellowish_skin, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+3916,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1440,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1850,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1851,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+4244,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+3834,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1852,Hepatitis C, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+4121,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1853,Hepatitis C, fatigue, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+2260,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1854,Hepatitis C, fatigue, yellowish_skin, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1441,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+4285,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1855,Hepatitis C, fatigue, yellowish_skin, nausea, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1856,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+2269,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+4203,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+2263,Hepatitis C, fatigue, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+2262,Hepatitis C, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0,0
+1858,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1859,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history,0,0,0,0,0,0,0,0,0,0,0
+1857,Hepatitis C, fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes,0,0,0,0,0,0,0,0,0,0,0,0
+225,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+224,Hepatitis D, joint_pain, vomiting, fatigue, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+229,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain,0,0,0,0,0,0,0,0,0
+223,Hepatitis D, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+2273,Hepatitis D, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+222,Hepatitis D, joint_pain, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+2564,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+221,Hepatitis D, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+3097,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+220,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4491,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4245,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+3138,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4901,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4081,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+2271,Hepatitis D, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+2270,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+3179,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4860,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+3958,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4450,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+3343,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+4819,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0
+227,Hepatitis D, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, abdominal_pain, yellowing_of_eyes,0,0,0,0,0,0,0,0,0
+2284,Hepatitis E, joint_pain, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+2288,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+1056,Hepatitis E, joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+3672,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+2647,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+2287,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+1058,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+1059,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+1052,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+1050,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, coma, stomach_bleeding,0,0,0,0,0
+3590,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+3713,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+4410,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+3754,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+1055,Hepatitis E, joint_pain, vomiting, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+2565,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+1051,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+4451,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+2524,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+1054,Hepatitis E, joint_pain, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+2285,Hepatitis E, joint_pain, vomiting, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0,0
+2483,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+4328,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+4369,Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding,0,0,0,0
+3782,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+2798,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+4766,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1335,Hypertension , headache, chest_pain, dizziness, loss_of_balance,0,0,0,0,0,0,0,0,0,0,0,0,0
+3249,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1336,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1338,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+924,Hypertension , headache, chest_pain, dizziness, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+1339,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+1334,Hypertension , headache, chest_pain, dizziness, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+3290,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+4397,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+4315,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1337,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+4274,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1332,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+2593,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+3700,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+4069,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1331,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+1330,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+4848,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+2552,Hypertension , headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0
+1333,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration,0,0,0,0,0,0,0,0,0,0,0,0,0
+2371,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+2372,Hyperthyroidism, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+2373,Hyperthyroidism, fatigue, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+2574,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+4460,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+3271,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+3599,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+4624,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+3640,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+1141,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+1144,Hyperthyroidism, fatigue, mood_swings, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+4214,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+4337,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+3722,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+4829,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+1148,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+1145,Hyperthyroidism, fatigue, mood_swings, weight_loss, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+1146,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+1147,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+4665,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+2738,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+3230,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+2861,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0
+738,Hyperthyroidism, fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation,0,0,0,0,0,0,0
+1563,Hypoglycemia, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+2534,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+4871,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2985,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+4748,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+1155,Hypoglycemia, vomiting, fatigue, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+3682,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2382,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2383,Hypoglycemia, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+3313,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2944,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+4174,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+3887,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2385,Hypoglycemia, vomiting, fatigue, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+2384,Hypoglycemia, vomiting, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+3436,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2389,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+2386,Hypoglycemia, vomiting, fatigue, anxiety, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+2387,Hypoglycemia, vomiting, fatigue, anxiety, sweating, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+3969,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2388,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0,0
+4051,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+3559,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+2780,Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,0,0,0,0,0
+3639,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+3106,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+3352,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+1959,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1958,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1957,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1956,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1955,Hypothyroidism, fatigue, weight_gain, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1954,Hypothyroidism, fatigue, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+4090,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+315,Hypothyroidism, fatigue, weight_gain, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+310,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+316,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+4746,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+1549,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1548,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+2983,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+1547,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+3024,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+319,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+1546,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+3434,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0
+317,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+318,Hypothyroidism, fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation,0,0,0,0,0
+817,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+1634,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1633,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1632,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1631,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+1630,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+1229,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1228,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+3074,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+1227,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
+1225,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1223,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1222,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1221,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+1220,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+819,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+1226,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
+3115,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+4919,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+3238,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+3156,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+3197,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+3130,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+1371,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4155,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4893,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+1372,Jaundice, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+1373,Jaundice,itching, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+1376,Jaundice,itching, vomiting, fatigue, weight_loss, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+1783,Jaundice,itching, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+3212,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+3417,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+1374,Jaundice,itching, vomiting, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+1781,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+141,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+1780,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4237,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4114,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+3007,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+1782,Jaundice, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0,0
+1370,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+3089,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4073,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+2966,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+140,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+4319,Jaundice,itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain,0,0,0,0,0,0,0,0,0
+3213,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+3418,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+3705,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+4238,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+2803,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+1383,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+3992,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+970,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+4402,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+972,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+973,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+971,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+4361,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+4812,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+974,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+2516,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+975,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+976,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+3500,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+4443,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+979,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+978,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+1382,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0
+977,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,0,0,0,0,0,0,0,0,0,0
+2594,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3004,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+116,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+3086,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+525,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+2840,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3496,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3619,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+2799,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+2676,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+526,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+2512,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3373,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+110,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+112,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+2635,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+113,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+114,Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+115,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+3578,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3045,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+4726,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+3660,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0
+111,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,0,0,0,0,0,0,0,0,0
+2398,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+3642,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+752,Osteoarthristis, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2394,Osteoarthristis, joint_pain, neck_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2397,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints,0,0,0,0,0,0,0,0,0,0,0,0
+2395,Osteoarthristis, joint_pain, neck_pain, knee_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2617,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+751,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+750,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2396,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3765,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2393,Osteoarthristis, joint_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+3273,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+4667,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+3806,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2392,Osteoarthristis, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+2391,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2535,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2576,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+756,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, painful_walking,0,0,0,0,0,0,0,0,0,0,0,0
+757,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints,0,0,0,0,0,0,0,0,0,0,0,0
+4585,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+2390,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+4708,Osteoarthristis, joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking,0,0,0,0,0,0,0,0,0,0,0
+546,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+1363,Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1361,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+1360,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+4523,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+2182,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1369,Paralysis (brain hemorrhage), vomiting, headache, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2183,Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3785,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+4687,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+4728,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3170,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+2514,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3334,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+2637,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3293,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3826,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3375,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+541,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+4892,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3252,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+3088,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+4236,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium,0,0,0,0,0,0,0,0,0,0,0,0,0
+2834,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2670,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4023,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+3818,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2629,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4556,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+3859,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+3572,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2752,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4761,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+3777,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2106,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, internal_itching,0,0,0,0,0,0,0,0,0,0,0,0
+3490,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4843,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4392,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+460,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0,0
+2711,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2109,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2107,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases,0,0,0,0,0,0,0,0,0,0,0,0
+4638,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+879,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2588,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+4433,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2108,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching,0,0,0,0,0,0,0,0,0,0,0
+2325,Pneumonia, chills, fatigue, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+3635,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+277,Pneumonia, chills, fatigue, cough, high_fever, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+278,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+682,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+683,Pneumonia, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+279,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+3840,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+3922,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+681,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+2326,Pneumonia, chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+2322,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+2774,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+276,Pneumonia, chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+2327,Pneumonia, chills, fatigue, cough, high_fever, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+2328,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+1918,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+3963,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+1916,Pneumonia, chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+275,Pneumonia, chills, fatigue, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+1917,Pneumonia, chills, fatigue, cough, high_fever, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+2329,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+1919,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0,0
+4086,Pneumonia, chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum,0,0,0,0,0,0
+2909,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+4016,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2950,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3934,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3442,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3032,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+4221,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3401,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3073,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3114,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3360,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2991,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2030,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3483,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2037,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2033,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2032,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2035,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2036,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2031,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2827,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+2034,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
+2038,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+3524,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
+4371,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1075,Tuberculosis, chills, vomiting, fatigue, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1076,Tuberculosis, chills, vomiting, fatigue, weight_loss, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1077,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+4207,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1489,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+3223,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+4289,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1487,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1486,Tuberculosis, chills, vomiting, fatigue, weight_loss, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1485,Tuberculosis, chills, vomiting, fatigue, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1484,Tuberculosis, chills, vomiting, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1483,Tuberculosis, chills, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1482,Tuberculosis, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+4043,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1481,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1078,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1079,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+1480,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+1488,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0,0
+3305,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+4166,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+4084,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+4330,Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum,0
+182,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+183,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+184,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+181,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+185,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,0,0,0,0,0,0,0
+2847,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+180,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+186,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),0,0,0,0,0,0,0
+187,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+3954,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+2888,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+4856,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+3462,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+188,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+2929,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+4487,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+1825,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,0,0,0,0,0,0,0
+2970,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+4815,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+1419,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+189,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+3503,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0
+1824,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+1823,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,0,0,0,0,0,0,0
+794,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3810,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+796,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+797,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+799,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3851,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+3892,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+3195,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+4056,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+4507,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+1201,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+4343,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+790,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+4015,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+1202,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4425,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+1205,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1206,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+3974,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+1203,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1204,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4466,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,0,0,0,0,0,0,0,0,0,0,0,0,0
+2490,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+1126,Varicose veins, fatigue, cramps, bruising, obesity, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+1129,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+2654,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+2353,Varicose veins, fatigue, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+1537,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+1123,Varicose veins, fatigue, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+1536,Varicose veins, fatigue, cramps, bruising, obesity, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+4663,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+3597,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+1534,Varicose veins, fatigue, cramps, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+4089,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+3310,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+1535,Varicose veins, fatigue, cramps, bruising, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+1128,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels,0,0,0,0,0,0,0,0,0,0,0
+2355,Varicose veins, fatigue, cramps, bruising, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+2356,Varicose veins, fatigue, cramps, bruising, obesity, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+3679,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+3269,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+2613,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+719,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+2357,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0,0
+2350,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+3802,Varicose veins, fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf,0,0,0,0,0,0,0,0,0,0
+3340,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+3668,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+190,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+191,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+4242,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+192,hepatitis A, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+3709,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+193,hepatitis A, joint_pain, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+194,hepatitis A, joint_pain, vomiting, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+1428,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+195,hepatitis A, joint_pain, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+196,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+197,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+198,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+199,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+4816,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+1429,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
+4201,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+4693,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+2520,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+3914,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+4037,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+3504,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0
+1016,hepatitis A, joint_pain, vomiting, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain,0,0,0,0,0,0,0
