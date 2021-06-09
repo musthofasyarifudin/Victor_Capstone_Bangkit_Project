@@ -1,0 +1,3 @@
+include ':app'
+include ':autoimageslider'
+rootProject.name = "VictorCapstoneProject"

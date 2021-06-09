@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944128889240",
+    "project_id": "victor-de371",
+    "storage_bucket": "victor-de371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944128889240:android:0039b0e1c7a6511ed9dbed",
+        "android_client_info": {
+          "package_name": "com.android.victor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944128889240-o3pmv6p2p9etepgfst3k6rulr6em1699.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHP_aIuOERycqiBPQvrHvqkOfkJV5nxm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944128889240-o3pmv6p2p9etepgfst3k6rulr6em1699.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

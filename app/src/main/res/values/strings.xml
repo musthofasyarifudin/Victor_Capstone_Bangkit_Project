@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VictorCapstoneProject</string>
+    <string name="image_splash_screen">image_splash_screen</string>
+    <string name="image_login">image_login</string>
+    <string name="login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="doesnt_have_an_account_yet">Doesn’t have an account yet?</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="title_slide_1">Chat to The Victor</string>
+    <string name="title_slide_2">Check Your Health with Victor</string>
+    <string name="desc_slide_1">Share your symptoms with Victor and he will give you advice</string>
+    <string name="desc_slide_2">Victor will help you to deal with your health problems</string>
+    <string name="register">Register</string>
+    <string name="send_message">Send message...</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="register_succes">Your account has been successfully registered, please wait and check your email for verification</string>
+    <string name="victor">Victor</string>
+    <string name="logout">Logout</string>
+    <string name="wanna_logout">Do you want to log out?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+</resources>

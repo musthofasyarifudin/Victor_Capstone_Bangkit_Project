@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.victor">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.android.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VictorCapstoneProject">
+        <activity android:name=".ui.home.HomeActivity"/>
+        <activity android:name=".ui.intro.IntroActivity"/>
+        <activity android:name=".ui.login.LoginActivity" />
+        <activity android:name=".ui.register.RegisterActivity" />
+        <activity android:name=".ui.splashscreen.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
