@@ -1,4 +1,4 @@
-# Capstone_Bangkit
+# Capstone Bangkit Project 2021
 
 ## We Made Application that detect person disease with symptom based prediction
 our team craeted android application that predict person disease
