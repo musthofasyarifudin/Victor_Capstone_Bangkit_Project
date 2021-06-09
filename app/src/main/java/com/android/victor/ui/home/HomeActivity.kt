@@ -198,6 +198,7 @@ class HomeActivity : AppCompatActivity(), MessageAdapter.OnItemClick, View.OnCli
                         )
                     }
                     smoothScroll()
+                    restart()
                 } else {
                     showToast(this@HomeActivity, "The server is having problems, try again later")
                 }
@@ -214,6 +215,19 @@ class HomeActivity : AppCompatActivity(), MessageAdapter.OnItemClick, View.OnCli
 
     private fun smoothScroll() {
         b.rvMessage.smoothScrollToPosition(messageAdapter.countItemMessage())
+    }
+
+    private fun restart() {
+        messageAdapter.addSingleMessage(
+            MessageModel("Want to try again?", textLength = "Long")
+        )
+        messageAdapter.addSingleMessage(
+            MessageModel("Start", messageId = "start")
+        )
+        messageAdapter.addSingleMessage(
+            MessageModel("Close", messageId = "close")
+        )
+        smoothScroll()
     }
 
     override fun onClick(v: View?) {
