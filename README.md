@@ -14,3 +14,4 @@ Tensorflow Categorical Embedding LSTM Neural Net -Acc = 1
 We made api using flask framework you can go straight to API folder. In tHere there is main file and model file and class object. to start using prediction you can start with main.py and run. after that you can send json using postman to local address and it will send back json with prediction result.
 
 ## Android
+We moved android repo in this link https://github.com/arissetyawan1/ui_victor_capstone. you can download and run in your android studio
