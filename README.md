@@ -1,7 +1,7 @@
 # Capstone Bangkit Project 2021
 
 ## We Made Application that detect person disease with symptom based prediction
-our team craeted android application that predict person disease
+our team created android application that predict person disease
 
 ## Our Model
 we create several model with each it own distinction. we eventually use lstm neural net for our api. to start using you can go to folder in each model and run notebook to try and see for yourself.
